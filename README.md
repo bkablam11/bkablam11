@@ -68,15 +68,22 @@
 
 ---
 
-### 📈 Statistiques GitHub
+### 📈 Statistiques & Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkablam11&show_icons=true&theme=tokyonight&hide_border=true&title_color=00A3FF&icon_color=00A3FF" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkablam11&layout=compact&theme=tokyonight&hide_border=true&title_color=00A3FF" width="48%" alt="Top Languages" />
+  <!-- Carte des statistiques globales (Miroir stable et rapide) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=bkablam11&show_icons=true&theme=tokyonight&hide_border=true&title_color=00A3FF&icon_color=00A3FF&count_private=true" width="49%" alt="GitHub Stats" />
+  
+  <!-- Carte Streak / Série de contributions (Service très fiable de demolab) -->
+  <img src="https://streak-stats.demolab.com?user=bkablam11&theme=tokyonight&hide_border=true&ring=00A3FF&fire=00A3FF&currStreakNum=00A3FF" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bkablam11&theme=tokyo-night&hide_border=true&point=00A3FF&line=00A3FF" width="98%" alt="Activity Graph" />
+  <!-- Top Langages -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bkablam11&layout=compact&theme=tokyonight&hide_border=true&title_color=00A3FF" width="49%" alt="Top Languages" />
+  
+  <!-- Trophées GitHub (Succès et récompenses) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bkablam11&theme=tokyonight&no-frame=true&column=4&margin_w=15" width="49%" alt="GitHub Trophies" />
 </p>
 
 ---
