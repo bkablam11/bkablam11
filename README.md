@@ -82,8 +82,6 @@
   <!-- Top Langages -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bkablam11&layout=compact&theme=tokyonight&hide_border=true&title_color=00A3FF" width="49%" alt="Top Languages" />
   
-  <!-- Trophées GitHub (Succès et récompenses) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=bkablam11&theme=tokyonight&no-frame=true&column=4&margin_w=15" width="49%" alt="GitHub Trophies" />
 </p>
 
 ---
